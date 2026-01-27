@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Zainab<br>I'm interested in cybersecurity and web development<br>Currently learning HTML, CSS, JS, and React<br>How to reach me: alashoor.xz@hotmail.com
+Hi, I'm Zainab<br>I'm interested in software development and ML <br>Currently learning React<br>How to reach me: alashoor.xz@hotmail.com
 
 
 ## 🌐 Socials:
